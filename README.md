@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zebulon5
 - 👀 I’m interested in technology and art!
-- 🌱 I’m currently learning Azure!
+- 🌱 I’m currently learning Azure! (and anything else I look up)
 - 💞️ I’m looking to collaborate on exciting tech opportunies!
-- ⚡ Fun fact: I can make very tiny hats!
+- ⚡ Fun fact: I am currently working to level up my teck skills.
 
 <!---
 Zebulon5/Zebulon5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
